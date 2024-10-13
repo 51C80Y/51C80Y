@@ -1,7 +1,7 @@
   - 👋 Hi, I’m @51C80Y
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Responsive Web Design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Websites and other open Projects, where i can gain confidence in my knowledge and expand it.
 - 📫 How to reach me, IG: @c4llme.blu3
 - ⚡ Fun fact: I´m a self lerned developer
 
